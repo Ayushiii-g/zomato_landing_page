@@ -1,3 +1,2 @@
-﻿# zomato_clone
- # author: Ayushi Ghosh
+﻿# zomato_clone developed using HTML and CSS.
  
